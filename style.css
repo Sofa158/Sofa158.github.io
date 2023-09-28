@@ -83,10 +83,12 @@ h2 {
 }
 
 .feature-circle {
-  padding-top: 65px;
+ padding-top: 65px;
   background-image: url("img/circle.svg");
-}
 
+
+
+}
 .advantages {
   width: 510px;
   margin: 0 auto 40px;
